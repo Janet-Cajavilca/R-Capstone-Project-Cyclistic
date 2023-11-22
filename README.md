@@ -3,7 +3,7 @@
 
 ## Introduction 
 
-In this case study, I performed the tasks of a junior data analyst. This project was undertaken to fulfill the requirements of the Google Data Analytics Capstone from the Google Data Analytics Professional Certificate course on Coursera. [Link](https://www.coursera.org/professional-certificates/google-data-analytics?)
+In this case study, I performed the tasks of a junior data analyst. This project was undertaken to fulfill the requirements of the Google Data Analytics Capstone from the Google Data Analytics Professional Certificate course on Coursera. [Link to course](https://www.coursera.org/professional-certificates/google-data-analytics?)
 
 The work is for the fictional company, Cyclistic. I was assigned to answer the question: **How do annual members and casual riders use Cyclist bikes differently?**
 To answer the key business question, I will follow the steps of the data analysis process: *ask, prepare, process, analyze, share, and act.*
@@ -16,7 +16,7 @@ I have produced a report using R with the following deliverables:
 - Supporting visualizations and key findings
 - Recommendations based on the analysis
   
- [Follow the Link](#) to access the document.
+ [Follow the Link](#) to access the file.
 
 ### Scenario
 
