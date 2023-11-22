@@ -1,9 +1,11 @@
-# Capstone Project Cyclist
-This project was done to complete my 
+# Capstone Project Cyclistic
+
 
 ## Introduction 
 
-In this case study, I will perform the task of a junior data analyst. The work is for the fictional company, Cyclistic. I was assigned to answer the question: **How do annual members and casual riders use Cyclist bikes differently?**
+In this case study, I performed the task of a junior data analyst. This project was done to complete the Google Data Analytics Capstone from the Course Google Data Analytics Professional Certificate by Coursera Link
+
+The work is for the fictional company, Cyclistic. I was assigned to answer the question: **How do annual members and casual riders use Cyclist bikes differently?**
 To answer the key business question, I will follow the steps of the data analysis process: *ask, prepare, process, analyze, share, and act.*
 
 ### Scenario
