@@ -16,7 +16,8 @@ I have produced a report using R with the following deliverables:
 - Supporting visualizations and key findings
 - Recommendations based on the analysis
   
- [Follow the Link](#) to access the report or go to the file R-Code.ipynb.
+For the data analysis, I decided to use R because the data is too large for Google Spreadsheets or Microsoft Excel.
+[Follow the Link](#) to access the report or go to the file R-Code.ipynb.
 
 ### Scenario
 
