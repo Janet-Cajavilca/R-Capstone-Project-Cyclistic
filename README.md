@@ -3,10 +3,20 @@
 
 ## Introduction 
 
-In this case study, I performed the task of a junior data analyst. This project was done to complete the Google Data Analytics Capstone from the Course Google Data Analytics Professional Certificate by Coursera Link
+In this case study, I performed the tasks of a junior data analyst. This project was undertaken to fulfill the requirements of the Google Data Analytics Capstone from the Google Data Analytics Professional Certificate course on Coursera. [Link](https://www.coursera.org/professional-certificates/google-data-analytics?)
 
 The work is for the fictional company, Cyclistic. I was assigned to answer the question: **How do annual members and casual riders use Cyclist bikes differently?**
 To answer the key business question, I will follow the steps of the data analysis process: *ask, prepare, process, analyze, share, and act.*
+
+I have produced a report using R with the following deliverables:
+- A clear statement of the task
+- A description of all data sources used
+- Documentation of any cleaning or manipulation of data
+- A summary of your analysis
+- Supporting visualizations and key findings
+- Recommendations based on the analysis
+  
+ [Follow the Link](#) to access the document.
 
 ### Scenario
 
@@ -20,10 +30,3 @@ In 2016, Cyclistic launched a successful bike-share offering. Since then, the pr
 
 Until now, Cyclistic’s marketing strategy relied on building general awareness and appealing to broad consumer segments. One approach that helped make these things possible was the flexibility of its pricing plans: single-ride passes, full-day passes, and annual memberships. Customers who purchase single-ride or full-day passes are referred to as casual riders. Customers who purchase annual memberships are Cyclistic members.
 
-I have produced a report in R with the following deliverables: 
-- A clear statement of the task
-- A description of all data sources used
-- Documentation of any cleaning or manipulation of data
-- A summary of your analysis
-- Supporting visualizations and key findings
-- Recommendations based on the analysis
