@@ -19,5 +19,6 @@ I have produced a report using R with the following deliverables:
 For the data analysis, I decided to use R because the data is too large for Google Spreadsheets or Microsoft Excel.
 [Link](https://github.com/Janet-Cajavilca/R-Capstone-Project-Cyclistic/blob/main/R-Code.ipynb) to access the report or go to the file **R-Code.ipynb**.
 
+I also created visualizations in R. However, for a better overview, I created a Dashboard on Tableau. [Here is the link.](https://public.tableau.com/app/profile/janet.cajavilca/viz/CapstoneProjectCyclist_17007682673500/ProjectCyclist)
 
 
